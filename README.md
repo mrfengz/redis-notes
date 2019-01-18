@@ -1,0 +1,2 @@
+# redis-notes
+learn redis 
